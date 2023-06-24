@@ -54,6 +54,9 @@ body {
   overflow: hidden;
   border: 0;
 }
+.site {
+  flex-grow: 1;
+}
 
 .site-header-wrapper {
   padding: 30px 0;
